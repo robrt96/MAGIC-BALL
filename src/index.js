@@ -6,8 +6,8 @@ import "./styles.css";
 
 const rotate = keyframes`
   0% {
-    color: coral;
-    border-color: coral;  }
+    color: #ff7f50;
+    border-color: #ff7f50;  }
 
   33.33% {
     color: #1cbc73;
@@ -18,8 +18,8 @@ const rotate = keyframes`
     border-color: #330867;  }
 
     0% {
-    color: coral;
-    border-color: coral;  }
+    color: #ff7f50;
+    border-color: #ff7f50;  }
 `;
 
 const Button = styled.button`
